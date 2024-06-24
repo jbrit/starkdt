@@ -86,12 +86,13 @@ export default function Home() {
                   Tokens held and bubble maps
                 </div>
                 <div className=" flex justify-center">
-                  <span className="border border-white rounded-md p-3 cursor-pointer pointer-events-none mr-4">
+                  ...
+                  {/* <span className="border border-white rounded-md p-3 cursor-pointer pointer-events-none mr-4">
                     0.0123 STRK
                   </span>
                   <span className="border border-white rounded-md p-3 cursor-pointer pointer-events-none ml-4">
                     0.0367 ETH
-                  </span>
+                  </span> */}
                 </div>
               </>
             )}
